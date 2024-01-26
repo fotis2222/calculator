@@ -46,6 +46,7 @@ public class Calculator {
         } else {
             explain();
         }
+        sc.close();
     }
 
     static void exit() {
